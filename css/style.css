@@ -1,0 +1,31 @@
+
+
+
+body {background-color: rgb(245, 187, 255);}
+
+#Logo{float:left;}
+#Icon {float:right;}
+#Navigacion {clear:both;}
+#Navagacion a:hover {color: red;}
+#Navagacion a:enabled {color: black;}
+#Navagacion a:visited {color: black;}
+
+
+
+
+#LeftContent {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;float:left;width:620px;}
+#LeftContent h1 {color: chocolate; border-bottom:solid black 3px;}
+#LeftContent img {border-bottom:solid black 1px;padding:10px}
+
+#RightContent {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;float:right;width: 260px;}
+#RightContent h3 {color: chocolate;}
+
+#Footer {clear:both;}
+
+#Kotak {width:900px; background-color:white;margin:0px auto;}
+#Navigacion {border-top:solid black 3px;border-bottom:solid black 3px;padding:10px}
+#Navagacian {border-bottom: solid black 3px;margin: 8px;}
+
+#Kotak1 {float: left; width: 250px;background-color: beige;margin-right:10 px;}
+
+
